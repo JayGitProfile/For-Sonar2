@@ -16,6 +16,10 @@
 
 	<properties>
 		<java.version>1.8</java.version>
+		<sonar.projectKey>JayGitProfile_For-Sonar2</sonar.projectKey>
+  		<sonar.organization>jaygitprofile</sonar.organization>
+  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  		<sonar.login>b3adc474e72960fa049e1a5e0b9b0238101cf64b</sonar.login>
 	</properties>
 
 	<dependencies>
